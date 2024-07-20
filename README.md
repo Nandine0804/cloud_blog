@@ -1,6 +1,3 @@
-# Building a Secure and Scalable Django Blog on AWS
-![](./outcomes/images/django_aws.jpeg)
-
 ## Project Summary
 
 This project deploys a Django-based blog application on AWS using various services such as EC2, RDS, S3, DynamoDB, CloudFront, and Route 53. The end result is a scalable and secure web application where users can upload pictures and videos on their blog pages, which are stored on an S3 bucket and recorded on a DynamoDB table.
@@ -149,5 +146,6 @@ In conclusion, this AWS-deployed Django blog project excels in security, scalabi
   - https://docs.aws.amazon.com/lambda/latest/dg/foundation-networking.html
   - https://docs.aws.amazon.com/autoscaling/ec2/userguide/ts-as-healthchecks.html
 - Github: https://github.com/devenes/my-aws-capstone-project
-#   c l o u d _ b l o g  
+#   c l o u d _ b l o g 
+ 
  
